@@ -66,6 +66,7 @@ header button:hover{
 }
 .business-offer button{
     padding: 15px 31px 14px 32px;
+    margin-bottom: 55px;
     background: rgba(23, 35, 57, 1);
     color: rgba(250, 248, 246, 1);
     border-radius: 6px;
@@ -89,7 +90,7 @@ header button:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 300px;
+    margin-bottom: 145px;
 }
 .company-stats h1{
     text-align: center;
